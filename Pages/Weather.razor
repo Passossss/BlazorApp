@@ -38,8 +38,6 @@ else
 
 @code {
     private WeatherForecast[]? forecasts;
-    private string teste = "teste";
-
     protected override async Task OnInitializedAsync()
     {
         forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
@@ -48,9 +46,9 @@ else
     public class WeatherForecast
     {
         public DateOnly Date
-        {   
-            get; 
-            set; 
+        {
+            get;
+            set;
         }
 
         public int TemperatureC { get; set; }

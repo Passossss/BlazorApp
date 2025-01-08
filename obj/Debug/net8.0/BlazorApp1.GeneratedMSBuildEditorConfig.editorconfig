@@ -34,6 +34,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/guspassos/Desktop/Blazor/Pages/Sobre.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29icmUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/guspassos/Desktop/Blazor/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

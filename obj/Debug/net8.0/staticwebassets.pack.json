@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\obj\\Debug\\net8.0\\compressed\\v3vklvu64o.gz",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\obj\\Debug\\net8.0\\compressed\\v3vklvu64o.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorApp1.styles.css",
       "PackagePath": "staticwebassets\\BlazorApp1.styles.css"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\wwwroot\\css\\app.css",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\wwwroot\\favicon.png",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\wwwroot\\icon-192.png",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\wwwroot\\index.html",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\guspassos\\Desktop\\Ti Guspassos\\BlazorApp\\BlazorApp1\\wwwroot\\sample-data\\weather.json",
+      "Id": "c:\\Users\\guspassos\\Desktop\\Blazor\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
